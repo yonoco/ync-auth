@@ -1,0 +1,1 @@
+thin authentication and authorization layer which plays well the ync modules

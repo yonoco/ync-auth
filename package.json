@@ -1,0 +1,17 @@
+{
+    "name": "ync-auth",
+    "version": "1.0.0",
+    "description": "thin authentication and authorization layer which plays well the ync modules",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "lodash": "2.4.1"
+    },
+    "devDependencies": {
+        "koa": "0.14.0"
+    },
+    "author": "Tamás Fitos",
+    "license": "MIT"
+}
